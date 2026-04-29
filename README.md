@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="swisscows" target="_blank"><img src="https://img.shields.io/badge/뱃지레이블-배경색?style=plastic&logo=swisscows&logoColor=#4EA4DD"/></a>
+<a href="swisscows" target="_blank"><img src="https://img.shields.io/badge/Kongju_University-#FFD500?style=plastic&logo=swisscows&logoColor=#4EA4DD"/></a>
