@@ -15,4 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gyusangmoon&show_icons=true&theme=radical)
+
 <a href="swisscows" target="_blank"><img src="https://img.shields.io/badge/Kongju_University-#FFD500?style=plastic&logo=swisscows&logoColor=#4EA4DD"/></a>
